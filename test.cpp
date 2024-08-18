@@ -2,8 +2,7 @@
 using namespace std;
 int main()
 {
-  ci
-c fdf dsf,d sfm,s
+  cout << "second branch code";
   return 0;
 
 }
