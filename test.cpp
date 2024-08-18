@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-  cout << "chaged code 22232323";
+  cout << "main code";
   return 0;
 }
